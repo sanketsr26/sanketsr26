@@ -63,8 +63,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   </a>
-</p>
-<p align="left">
   <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" alt="javascript" width="80" height="50" />
   </a>
