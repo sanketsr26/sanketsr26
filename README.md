@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently working as a Full Stack Developer at CDK Global, Pune India.
 
+- 🏅 I'm a AWS Certified Developer-Associate. [Verify](https://www.credly.com/badges/64b712d1-63be-44d1-b5ca-f51fff57d2f4/public_url) 
+
 - 📫 How to reach me **sanketrapkal47@gmail.com**
 
 - ⚡ In free time : Cricket🏏, Table-Tennis 🏓
