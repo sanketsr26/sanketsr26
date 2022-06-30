@@ -28,7 +28,7 @@
   <a href="https://www.hackerrank.com/dev_sanketsr" target="blank"><img align="center"
       src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg"
       alt="dev_sanketsr" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/snktsr__/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/sanket.rapkal/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="snktsr__" height="30" width="40" /></a>
 </p>
